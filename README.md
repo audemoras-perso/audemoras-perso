@@ -18,7 +18,7 @@ Global Product Leader with 20+ years experience in building B2B products across 
 Passionate about building and coaching multi-cultural teams 
 
 📫 Contact me if you're a B2B Business looking to:
-1 - Expand globally while avoiding common product pitfalls
-2 - Build an AI product with sustainable business model and guardrailed quality
-3 - Get support on your product strategy and align cross-functional teams around execution
-4 - Get support on building scalable product organizations with strong foundations and ways of working
+- Expand globally while avoiding common product pitfalls
+- Build an AI product with sustainable business model and guardrailed quality
+- Get support on your product strategy and align cross-functional teams around execution
+- Get support on building scalable product organizations with strong foundations and ways of working
