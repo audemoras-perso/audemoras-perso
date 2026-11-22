@@ -1,12 +1,12 @@
 ## Hello, Bonjour, 你好, I'm Aude! 👋
 
 Currently learning 
-- Python
+- 🐍 Python
 
 AI playground (not currently visible) 
-- Vibe-planner - AI Agent for travelers seeking the best hotel for their stay (Objective: MCP, evals)
-- Investor Reach - System multi-agents to make VC researches, identify positioning, validating positioning and building communication pointers (Objective: Multi-agents, guardrails)
-- Mandarin Naturally - Mobile App for Mandarin learners, given a language level, can exercise their grammar and vocabulary (Objective: Mobile UX, Open-source LLM, Backend building)
+- ✈️ Vibe-planner - AI Agent for travelers seeking the best hotel for their stay (Objective: MCP, evals)
+- 💸 Investor Reach - System multi-agents to make VC researches, identify positioning, validating positioning and building communication pointers (Objective: Multi-agents, guardrails)
+- 🀄 Mandarin Naturally - Mobile App for Mandarin learners, given a language level, can exercise their grammar and vocabulary (Objective: Mobile UX, Open-source LLM, Backend building)
 
 
 AI builds in production: 
